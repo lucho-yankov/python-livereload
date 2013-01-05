@@ -16,9 +16,10 @@ Python LiveReload is designed for web developers who know Python.
 Install python-livereload
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Install this particular version of Python LiveReload:
+Install this particular version of Python LiveReload::
     
-    $ # checkout the source code and then run
+    checkout the source code and then run
+
     $ sudo python setup.py install
 
 Install Python LiveReload with pip::
